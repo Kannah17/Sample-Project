@@ -2,3 +2,4 @@ I am Kannah , I learn how to work with github
 Now, I try Pull Command
 Now ,I Learn Branched Concept
 Now, I Learn Merge Conflict Concept  
+I have a error because of Conflict
