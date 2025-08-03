@@ -4,3 +4,4 @@ Now ,I Learn Branched Concept
 Now, I Learn Merge Conflict Concept  
 Error in Conflict: I encountered a conflict error during merge.
 Now, I Learn Git Stash 
+Stash:Like a Recycle Bin
